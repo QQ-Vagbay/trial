@@ -8,7 +8,7 @@
 <footer location='/usr/local/web/aw/include/bm_footer.html'/>
 <linkbackheader location='https://www.fishbase.ca/search.php'/>
 </metadata>
-<logo img='https://github.com/QQ-Vagbay/trial/blob/main/FBLogo.gif' url='https://www.fishbase.ca/search.php'/><colors method='field' fieldname='darwin:genuscol' label='Genus'>
+<logo img='https://raw.githubusercontent.com/QQ-Vagbay/trial/main/FBLogo.gif' url='https://www.fishbase.ca/search.php'/><colors method='field' fieldname='darwin:genuscol' label='Genus'>
 <color key='default' red='0' green='0' blue='255' symbol='7' label='Remora remora points'/>
 <dominantcolor webcolor='629ad3'/>
 <subdominantcolor webcolor='ddddff'/>
