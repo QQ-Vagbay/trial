@@ -19,14 +19,12 @@
 </settings><recordlinkback>
 <linkback method='pattern' linkurl='${char255:1}' text='View Details' fieldname='Link Back'/>
 </recordlinkback><concepts xmlns:darwin='http://digir.net/schema/conceptual/darwin/2003/1.0'>
-<concept order='1' viewlist='1' datatype='darwin:genuscol' alias='Genus'/>
-<concept order='2' viewlist='1' datatype='darwin:speciescol' alias='Species'/>
-<concept order='3' viewlist='1' datatype='darwin:latitude' alias='Latitude'/>
-<concept order='4' viewlist='1' datatype='darwin:longitude' alias='Longitude'/>
-<concept order='5' viewlist='1' datatype='darwin:paese' alias='Country'/>
-<concept order='6' viewlist='1' datatype='darwin:year' alias='Year Collected'/>
-<concept order='7' viewlist='1' datatype='darwin:organization' alias='Organization'/>
-<concept order='8' viewlist='1' datatype='darwin:portal' alias=':Portal'/>
-<concept order='9' viewlist='0' datatype='char255:1' alias='recordurl'/>
+<concept order="1" viewlist="1" datatype="darwin:scientificname" alias="Scientific Name"/>
+<concept order="6" viewlist="1" datatype="darwin:decimallatitude" alias="Decimal Latitude"/>
+<concept order="7" viewlist="1" datatype="darwin:decimallongitude" alias="Decimal Longitude"/>
+<concept order="2" viewlist="1" datatype="darwin:institutioncode" alias="Institution Code"/>
+<concept order="4" viewlist="1" datatype="darwin:collectioncode" alias="Collection Code"/>
+<concept order="5" viewlist="1" datatype="darwin:catalognumber" alias="Catalog Number"/>
+<concept order="8" viewlist="0" datatype="char255:1" alias="dc_rereference"/>
 </concepts>
 </berkeleymapper>
