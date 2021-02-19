@@ -1,0 +1,613 @@
+Remora	remora	-21.083000	-175.167000	Polynésie França		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299176
+Remora	remora	-21.083000	-175.167000	Polynésie França		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299177
+Remora	remora	-21.083334	-175.166670			mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026130
+Remora	remora	-21.083334	-175.166670			mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026131
+Remora	remora	17.683332	-174.166670			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025600
+Remora	remora	17.683333	-174.166667		1972	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217797
+Remora	remora	25.770277	-171.751390	USA		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025229
+Remora	remora	25.400000	-170.600000	United States	1961	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114199
+Remora	remora	6.000000	-162.000000		1913	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/38421607
+Remora	remora	6.000000	-162.000000	East Tropical Oc	1913	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/14855657
+Remora	remora	6.000000	-162.000000	East Tropical Oc	1913	BPBM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	22.000000	-160.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299138
+Remora	remora	22.000000	-160.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299263
+Remora	remora	22.000000	-160.000000	Hawaii		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025999
+Remora	remora	22.000000	-160.000000	Hawaii		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026108
+Remora	remora	21.316668	-157.833330	Hawaii		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026122
+Remora	remora	21.317000	-157.833000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299165
+Remora	remora	-20.000000	-152.500000			mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026120
+Remora	remora	-20.000000	-152.500000	Polynésie França		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299163
+Remora	remora	12.183333	-145.183333		1969	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/38423562
+Remora	remora	12.183333	-145.183330		1969	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/14854667
+Remora	remora	12.183333	-145.183330		1969	BPBM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	0.200000	-139.866670	East Tropical Oc	1956	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/14854809
+Remora	remora	0.200000	-139.866670	East Tropical Oc	1956	BPBM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	0.200000	-139.866667		1956	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/38426700
+Remora	remora	-5.600000	-139.800000	Marquesas Island	1958	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114247
+Remora	remora	-10.000000	-139.000000			mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026125
+Remora	remora	-10.000000	-139.000000			mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026128
+Remora	remora	-10.000000	-139.000000	Polynésie França		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299168
+Remora	remora	-10.000000	-139.000000	Polynésie França		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299172
+Remora	remora	32.000000	-137.000000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025210
+Remora	remora	26.000000	-137.000000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025207
+Remora	remora	30.283333	-135.033333		1955	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874723
+Remora	remora	33.650000	-135.000000		1955	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875035
+Remora	remora	32.000000	-132.000000	Mexico		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025219
+Remora	remora	30.000000	-132.000000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025206
+Remora	remora	-25.100000	-130.100000	Pitcairn Islands		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660941
+Remora	remora	24.000000	-130.000000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025215
+Remora	remora	35.000000	-127.500000	Etats-Unis		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298492
+Remora	remora	35.000000	-127.500000	Etats-Unis		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298494
+Remora	remora	35.000000	-127.500000	USA		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026002
+Remora	remora	35.000000	-127.500000	USA		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026003
+Remora	remora	41.685000	-125.031667	USA	1969	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874695
+Remora	remora	23.000000	-125.000000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025216
+Remora	remora	36.750000	-124.566667		1957	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/38419484
+Remora	remora	36.750000	-124.566666	North Eastern Pa	1957	BPBM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/14854853
+Remora	remora	36.750000	-124.566666	North Eastern Pa	1957	BPBM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	26.000000	-120.000000		1954	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874720
+Remora	remora	12.000000	-120.000000			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025599
+Remora	remora	12.000000	-120.000000		1972	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217795
+Remora	remora	28.966667	-118.895000	Mexico	1955	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875060
+Remora	remora	33.715278	-118.173889	USA	1974	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874739
+Remora	remora	31.000000	-117.000000	Mexico	1970	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874713
+Remora	remora	28.516666	-116.466670	Mexico		CICIMAR-IPN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025306
+Remora	remora	28.516667	-116.466667	Mexico	1990	CICIMAR-IPN	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=654204
+Remora	remora	25.000000	-116.000000	Ecuador		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025198
+Remora	remora	28.166666	-115.833336	Mexico		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025199
+Remora	remora	28.166666	-115.833336	Mexico		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025200
+Remora	remora	18.558332	-114.733330	Mexico		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025227
+Remora	remora	26.716667	-113.566667	Mexico	1986	CICIMAR-IPN	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=654203
+Remora	remora	26.716667	-113.566666	Mexico		CICIMAR-IPN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025311
+Remora	remora	28.716667	-112.333336	Mexico	1986	IBUNAM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/46411854
+Remora	remora	28.717000	-112.333000	MEXICO	1986	Not recorded	GBIF	http://data.gbif.org/ws/rest/occurrence/get/145108534
+Remora	remora	18.000000	-112.150000	Mexico	1954	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875026
+Remora	remora	18.000000	-112.150000	Mexico	1958	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875050
+Remora	remora	18.966667	-112.033333	Mexico		LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874734
+Remora	remora	27.500000	-112.000000			mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026004
+Remora	remora	27.500000	-112.000000	mexique		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298700
+Remora	remora	10.566667	-111.666664			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025197
+Remora	remora	19.000000	-111.000000	Mexico	1962	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114200
+Remora	remora	19.316667	-110.800000	Mexico	1952	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875017
+Remora	remora	24.450000	-110.383333	Mexico	1988	CICIMAR-IPN	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=654206
+Remora	remora	24.450000	-110.383330	Mexico		CICIMAR-IPN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025308
+Remora	remora	24.183333	-110.300000	Mexico	1986	CICIMAR-IPN	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=654202
+Remora	remora	24.183332	-110.300000	Mexico		CICIMAR-IPN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025312
+Remora	remora	22.866667	-110.000000	Mexico		LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875013
+Remora	remora	22.866667	-109.883333	Mexico	1971	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874710
+Remora	remora	10.300000	-109.200000	Clipperton Islan	1958	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875045
+Remora	remora	21.000000	-107.000000	Mexico		LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874699
+Remora	remora	21.966667	-106.783333	Mexico	1975	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874752
+Remora	remora	21.383000	-106.500000	Mexico	1961	CMN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/78297178
+Remora	remora	21.416667	-106.400000	Mexico		UBC	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1738545
+Remora	remora	21.416666	-106.400000	Mexico	1961	UBC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025951
+Remora	remora	21.166667	-106.333333	Mexico	1956	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82875040
+Remora	remora	19.333333	-105.516667	Mexico		LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874703
+Remora	remora	3.883333	-105.166664			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025235
+Remora	remora	17.316700	-104.883300		1973	NRM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/106339
+Remora	remora	3.133333	-104.800000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025234
+Remora	remora	19.200000	-104.716670	Mexico	1957	UBC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025947
+Remora	remora	19.200000	-104.716667	Mexico		UBC	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1736354
+Remora	remora	19.000000	-104.250000	Mexico	1957	CMN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/78297170
+Remora	remora	18.116667	-102.900002	Mexico	1988	IBUNAM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/46412217
+Remora	remora	18.117000	-102.900000	MEXICO	1988	Not recorded	GBIF	http://data.gbif.org/ws/rest/occurrence/get/145108790
+Remora	remora	18.076000	-102.732000	MEXICO	1982	Not recorded	GBIF	http://data.gbif.org/ws/rest/occurrence/get/145108385
+Remora	remora	18.075834	-102.731941	Mexico	1982	IBUNAM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/46411619
+Remora	remora	14.800000	-102.133333	Mexico		LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874689
+Remora	remora	17.009167	-101.983333	Mexico	1970	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874805
+Remora	remora	20.000000	-100.000000	Mexico		UBC	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1738917
+Remora	remora	20.000000	-100.000000	Mexico		UBC	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1738918
+Remora	remora	20.000000	-100.000000	Mexico		UBC	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1738920
+Remora	remora	20.000000	-100.000000	Mexico	1962	UBC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025954
+Remora	remora	20.000000	-100.000000	Mexico	1962	UBC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025955
+Remora	remora	20.000000	-100.000000	Mexico	1962	UBC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025956
+Remora	remora	16.837000	-99.892000	MEXICO	1934	Not recorded	GBIF	http://data.gbif.org/ws/rest/occurrence/get/145108389
+Remora	remora	16.836945	-99.891945	Mexico	1934	IBUNAM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/46412166
+Remora	remora	10.000000	-98.000000	Mexico		LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874693
+Remora	remora	22.600000	-97.100000	Mexico	1954	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114262
+Remora	remora	19.783333	-96.416667	Mexico	1985	CICIMAR-IPN	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=654205
+Remora	remora	19.783333	-96.416664	Mexico		CICIMAR-IPN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025305
+Remora	remora	25.000000	-96.250000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346871
+Remora	remora	21.700000	-95.600000	Mexico	1954	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114261
+Remora	remora	21.700000	-95.583336		1954	AMNH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025128
+Remora	remora	21.700000	-95.583333		1954	AMNH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=967870
+Remora	remora	20.000000	-95.500000	Mexico	1932	YPM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/202572187
+Remora	remora	15.720834	-95.070830	Mexico		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025237
+Remora	remora	20.900000	-93.000000			USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114111
+Remora	remora	20.800000	-93.000000	Mexico	1956	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114280
+Remora	remora	27.000000	-92.000000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346870
+Remora	remora	26.700000	-92.000000		1954	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114283
+Remora	remora	10.000000	-92.000000		1973	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874791
+Remora	remora	-0.700000	-91.783333	Ecuador		AMNH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=967864
+Remora	remora	-0.700000	-91.783330	Ecuador		AMNH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025141
+Remora	remora	0.000000	-91.000000	Ecuador	1935	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874245
+Remora	remora	28.200000	-90.400000	United States	1956	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114156
+Remora	remora	-0.750556	-90.298611	Galapagos Island	1966	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114282
+Remora	remora	-0.500000	-90.283333	Galapagos Island		UBC	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1735916
+Remora	remora	-0.500000	-90.283330	Galapagos Is.	1956	UBC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025945
+Remora	remora	28.000000	-88.700000		1956	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114107
+Remora	remora	30.200000	-88.600000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025228
+Remora	remora	28.300000	-88.600000		1956	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114117
+Remora	remora	28.600000	-88.200000		1954	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114128
+Remora	remora	29.000000	-88.183330	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346884
+Remora	remora	28.833330	-88.183330	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346875
+Remora	remora	27.916670	-88.133330	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346893
+Remora	remora	28.750000	-88.100000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346879
+Remora	remora	28.633330	-88.100000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346877
+Remora	remora	27.850000	-88.083340	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346895
+Remora	remora	27.966670	-88.050000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346887
+Remora	remora	29.183330	-88.000000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346891
+Remora	remora	28.900000	-88.000000	United States	1955	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114121
+Remora	remora	28.700000	-88.000000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346897
+Remora	remora	28.666670	-88.000000	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346890
+Remora	remora	29.225000	-87.983330	USA	1952	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346831
+Remora	remora	28.900000	-87.916660	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346883
+Remora	remora	29.116670	-87.866670	USA	1953	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346919
+Remora	remora	27.866670	-87.833340	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346896
+Remora	remora	28.900000	-87.800000	United States	1960	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114281
+Remora	remora	28.333330	-87.666660	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346881
+Remora	remora	28.333330	-87.333340	USA	1954	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346889
+Remora	remora	30.416666	-87.233330	USA		IGFA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025426
+Remora	remora	30.416666	-87.233330	USA		IGFA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025427
+Remora	remora	30.400888	-87.195793	United States (c			FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1783546
+Remora	remora	30.400888	-87.195793	United States (c			FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1783547
+Remora	remora	29.091667	-87.000000			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025201
+Remora	remora	22.000000	-87.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299218
+Remora	remora	22.000000	-87.000000	NethAntilles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026151
+Remora	remora	29.383333	-86.900000			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025614
+Remora	remora	29.383333	-86.900000		1997	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45218390
+Remora	remora	7.733333	-85.883333	Costa Rica	1975	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874754
+Remora	remora	-5.133333	-83.350000			ISH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025448
+Remora	remora	-5.133333	-83.350000		1951	ISH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=724283
+Remora	remora	-20.600000	-83.300000		1966	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114278
+Remora	remora	8.125000	-83.141670			CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025214
+Remora	remora	19.770000	-83.120000		1966	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317136
+Remora	remora	19.670000	-82.970000		1966	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317129
+Remora	remora	-7.600000	-82.200000	Peru	1966	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114277
+Remora	remora	-1.583333	-81.666667		1951	ISH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=724282
+Remora	remora	-1.583333	-81.666664			ISH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025457
+Remora	remora	30.116670	-81.516670	USA	1952	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198346826
+Remora	remora	-10.000000	-81.500000			ISH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025434
+Remora	remora	-10.000000	-81.500000		1938	ISH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=724288
+Remora	remora	-8.800000	-81.300000	Peru	1966	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114275
+Remora	remora	32.083000	-81.100000	USA	1892	NRM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/106441
+Remora	remora	-5.766667	-81.083336	Peru	1956	UBC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025944
+Remora	remora	-5.766667	-81.083333	Peru		UBC	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=1737351
+Remora	remora	-2.316667	-80.883330	Ecuador		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026098
+Remora	remora	-2.317000	-80.883000	Equateur	1994	MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298765
+Remora	remora	25.770000	-79.780000		1966	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317138
+Remora	remora	26.720000	-79.520000		1978	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317154
+Remora	remora	27.500000	-79.333300	United States of	1969	mv	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	27.508333	-79.300000	United States of		NMV	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224144084
+Remora	remora	7.200000	-79.000000	Panama	1961	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114078
+Remora	remora	26.391667	-78.700000	Bahamas	1966	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217832
+Remora	remora	26.391667	-78.700000	Bahamas	1966	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217963
+Remora	remora	26.391666	-78.700000	Bahamas		ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025565
+Remora	remora	26.391666	-78.700000	Bahamas		ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025590
+Remora	remora	11.100000	-78.350000		1966	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317176
+Remora	remora	3.500000	-78.300000	Colombia	1962	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114108
+Remora	remora	7.558333	-78.200000	Panama	1961	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114240
+Remora	remora	33.300000	-77.520000		1979	NMFS-NEFSC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/18439284
+Remora	remora	33.300000	-77.520000		1979	NMFS-NEFSC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	24.476000	-77.475000	Bahamas	1927	YPM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/202572197
+Remora	remora	31.400000	-77.200000		1967	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114050
+Remora	remora	32.170000	-77.050000		1978	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317159
+Remora	remora	24.748000	-76.349000	Bahamas	1927	YPM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/202572199
+Remora	remora	24.453000	-75.869000	Bahamas	1927	YPM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/202572209
+Remora	remora	24.177000	-75.646000	Bahamas	1927	YPM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/202572200
+Remora	remora	40.000000	-75.167000	Etats-Unis		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299205
+Remora	remora	40.000000	-75.166664	USA		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026147
+Remora	remora	34.300000	-75.130000		1978	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317162
+Remora	remora	33.730000	-74.380000		1978	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35315951
+Remora	remora	19.900000	-74.100000	Haiti	1965	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114273
+Remora	remora	23.850000	-73.900000		1954	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35313711
+Remora	remora	23.850000	-73.900000		1954	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317200
+Remora	remora	39.700000	-73.800000	United States	1961	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114019
+Remora	remora	36.880000	-73.620000		1982	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317165
+Remora	remora	37.800000	-73.500000	United States	1959	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114083
+Remora	remora	36.120000	-73.420000		1960	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317940
+Remora	remora	36.250000	-72.467000		1959	YPM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/202572133
+Remora	remora	37.700000	-72.430000		1960	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35314458
+Remora	remora	14.691670	-72.375000		1965	TU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198347446
+Remora	remora	18.550000	-72.367000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299221
+Remora	remora	18.550000	-72.366670	NethAntilles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026154
+Remora	remora	34.750000	-71.820000	USA	1957	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35314224
+Remora	remora	39.300000	-71.800000	United States	1957	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114184
+Remora	remora	37.200000	-71.000000	United States	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114120
+Remora	remora	38.370000	-70.880000		1982	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317170
+Remora	remora	38.200000	-70.000000	United States	1960	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114087
+Remora	remora	18.500000	-69.950000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299148
+Remora	remora	18.500000	-69.950000	NethAntilles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026113
+Remora	remora	40.470000	-69.350000	USA	2002	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35318781
+Remora	remora	38.030000	-68.530000		1967	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317148
+Remora	remora	37.050000	-68.230000		1958	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35316330
+Remora	remora	37.500000	-68.167000		1957	YPM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/202572148
+Remora	remora	41.500000	-68.000000	Canada	1962	CMN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/17636129
+Remora	remora	41.500000	-68.000000	Canada	1962	CMN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/78297021
+Remora	remora	41.500000	-68.000000	Canada	1962	CMN	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	42.000000	-67.950000	Canada		ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025589
+Remora	remora	42.000000	-67.950000	Canada	1962	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217862
+Remora	remora	37.670000	-67.860000		1959	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317182
+Remora	remora	40.266667	-67.600000		1971	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217780
+Remora	remora	40.266666	-67.600000			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025594
+Remora	remora	37.300000	-67.400000	Bermuda	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114116
+Remora	remora	35.650000	-67.280000		1967	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317144
+Remora	remora	17.966667	-67.033333	Puerto Rico		LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874586
+Remora	remora	42.000000	-67.000000	Canada	1962	CMN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/17636128
+Remora	remora	42.000000	-67.000000	Canada	1962	CMN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/78297020
+Remora	remora	42.000000	-67.000000	Canada	1962	CMN	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	37.130000	-66.700000		1958	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35316334
+Remora	remora	18.720000	-65.870000		1954	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317105
+Remora	remora	37.700000	-65.700000		1957	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114259
+Remora	remora	32.000000	-65.200000	Bermuda	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114136
+Remora	remora	32.000000	-65.200000	Bermuda	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114140
+Remora	remora	18.370000	-65.093333		1969	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217859
+Remora	remora	18.370000	-65.093330			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025593
+Remora	remora	17.000000	-65.000000	France		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299209
+Remora	remora	17.000000	-65.000000	NethAntilles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026148
+Remora	remora	19.500000	-64.830000		1954	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35313617
+Remora	remora	32.200000	-64.600000			AMNH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025127
+Remora	remora	32.200000	-64.600000			AMNH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=967857
+Remora	remora	16.630000	-64.450000		1966	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317131
+Remora	remora	42.800000	-63.800000		1872	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114179
+Remora	remora	14.500000	-62.600000		1965	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114036
+Remora	remora	41.700000	-62.500000		1872	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114150
+Remora	remora	14.500000	-61.500000	France		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299180
+Remora	remora	14.500000	-61.500000	NethAntilles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026134
+Remora	remora	17.600000	-61.400000		1966	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114051
+Remora	remora	41.000000	-61.000000	Canada		ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025592
+Remora	remora	41.000000	-61.000000	Canada	1965	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217835
+Remora	remora	14.583333	-61.000000	NethAntilles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026140
+Remora	remora	14.583000	-61.000000	France		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299191
+Remora	remora	13.500000	-60.333333	Barbados	1961	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217771
+Remora	remora	13.500000	-60.333332	Barbados		ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025591
+Remora	remora	43.950000	-60.000000			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025596
+Remora	remora	43.950000	-60.000000		1958	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45217786
+Remora	remora	40.140000	-59.990000		2002	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35318806
+Remora	remora	-30.666666	-58.500000	Argentina		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025980
+Remora	remora	-30.666666	-58.500000	Argentina		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025981
+Remora	remora	-30.667000	-58.500000	Argentine		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298806
+Remora	remora	-30.667000	-58.500000	Argentine		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298807
+Remora	remora	15.100000	-56.500000		1962	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114112
+Remora	remora	32.000000	-56.020278		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114113
+Remora	remora	46.000000	-56.000000			ARC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/113835643
+Remora	remora	46.000000	-56.000000		0	ARC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	18.333334	-55.666668			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025581
+Remora	remora	18.333333	-55.666667		1996	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45218701
+Remora	remora	10.000000	-55.000000	Guyane française		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299134
+Remora	remora	20.466667	-54.433334			ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025580
+Remora	remora	20.466667	-54.433333		1997	ROM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/45218377
+Remora	remora	30.220000	-53.400000		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114025
+Remora	remora	30.220000	-53.400000	Bermuda	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114110
+Remora	remora	13.570000	-50.830000		1973	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317152
+Remora	remora	47.000000	-50.000000		1979	ARC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/113835641
+Remora	remora	47.000000	-50.000000		1979	ARC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	40.000000	-49.800000			USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114119
+Remora	remora	40.000000	-49.800000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114127
+Remora	remora	31.000000	-46.800000		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114109
+Remora	remora	-23.583334	-45.083332	Brazil		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026047
+Remora	remora	-23.583000	-45.083000	Brésil		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298344
+Remora	remora	-23.000000	-43.283333	Brazil		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026116
+Remora	remora	-23.000000	-43.283333	Brazil		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026117
+Remora	remora	-23.000000	-43.283333	Brazil		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026136
+Remora	remora	-23.000000	-43.283000	Brésil		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299158
+Remora	remora	-23.000000	-43.283000	Brésil		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299159
+Remora	remora	-23.000000	-43.283000	Brésil		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299184
+Remora	remora	4.280000	-41.410000	Brazil	2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114103
+Remora	remora	20.030000	-41.300000			MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35313059
+Remora	remora	0.600000	-41.100000		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114008
+Remora	remora	3.390000	-40.290000	Brazil	2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114101
+Remora	remora	33.000000	-39.400000		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114131
+Remora	remora	33.930139	-37.664444		2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114298
+Remora	remora	2.500000	-36.975000		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114024
+Remora	remora	40.300000	-36.100000		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114029
+Remora	remora	40.300000	-36.100000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114042
+Remora	remora	40.300000	-36.100000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114135
+Remora	remora	41.300000	-34.800000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114033
+Remora	remora	36.900000	-32.500000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114046
+Remora	remora	-8.300000	-31.290556	Brazil	1957	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114260
+Remora	remora	-10.000000	-30.000000	Brazil		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026144
+Remora	remora	-10.000000	-30.000000	Brésil		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299200
+Remora	remora	37.764167	-29.797778	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114115
+Remora	remora	-19.980000	-29.330000		1967	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317140
+Remora	remora	-8.690000	-29.300000	Brazil	2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114088
+Remora	remora	-9.160000	-29.280000	Brazil	2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114178
+Remora	remora	41.200000	-29.200000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114038
+Remora	remora	39.500000	-28.000000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114105
+Remora	remora	0.000000	-27.570000		1963	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317197
+Remora	remora	37.400000	-25.900000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114085
+Remora	remora	0.333333	-25.333334			ISH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025461
+Remora	remora	0.333333	-25.333333		1968	ISH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=724284
+Remora	remora	15.000000	-25.000000	Cap-vert		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299132
+Remora	remora	15.000000	-25.000000	Cap-vert		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299133
+Remora	remora	15.000000	-25.000000	Cape Verde		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026106
+Remora	remora	15.000000	-25.000000	Cape Verde		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026107
+Remora	remora	16.000000	-24.000000	Cap-vert		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298453
+Remora	remora	16.000000	-24.000000	Cape Verde		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026000
+Remora	remora	14.933333	-23.533333	Cape Verde		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026141
+Remora	remora	14.933333	-23.533333	Cape Verde		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026142
+Remora	remora	14.933333	-23.533333	Cape Verde		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026145
+Remora	remora	14.933333	-23.533333	Cape Verde		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026146
+Remora	remora	14.933000	-23.533000	Cap-vert		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299197
+Remora	remora	14.933000	-23.533000	Cap-vert		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299198
+Remora	remora	14.933000	-23.533000	Cap-vert		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299202
+Remora	remora	14.933000	-23.533000	Cap-vert		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299204
+Remora	remora	36.400000	-23.500000	Azores	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114022
+Remora	remora	5.655000	-22.579722		2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114301
+Remora	remora	4.835833	-22.415833		2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114299
+Remora	remora	-7.735139	-22.298611		2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114309
+Remora	remora	-7.735139	-22.298611		2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114331
+Remora	remora	-7.841944	-21.155972		2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114320
+Remora	remora	-8.090833	-21.016806		2002	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114300
+Remora	remora	18.000000	-20.000000	Mauritania	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114028
+Remora	remora	2.600000	-20.000000		1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114016
+Remora	remora	-35.000000	-17.000000		1971	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35317814
+Remora	remora	-37.250000	-12.500000	Tristan da cunha		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824653
+Remora	remora	-37.250000	-12.500000	Tristan Da Cunha		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24911003
+Remora	remora	-37.250000	-12.500000	Tristan Da Cunha	1977	SAIAB	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-38.000000	-12.416667	Tristan da Cunha		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025909
+Remora	remora	-0.570000	-11.520000		1961	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35313670
+Remora	remora	31.513056	-9.769722	MA	1920	MCNC-MZB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/31761976
+Remora	remora	2.811667	-7.088333	Cote d'Ivoire	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114041
+Remora	remora	3.000000	-4.000000	Cote d'Ivoire	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114012
+Remora	remora	0.500000	-4.000000	Ghana	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114032
+Remora	remora	48.716667	-3.983333	France		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026074
+Remora	remora	48.717000	-3.983000	France		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298865
+Remora	remora	0.500000	-3.400000	Ghana	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114021
+Remora	remora	1.433333	-2.666667		1963	AMNH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025129
+Remora	remora	1.433333	-2.666667		1963	AMNH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=967859
+Remora	remora	-23.000000	-1.000000	unknown country	1960	ZMO	GBIF	http://data.gbif.org/ws/rest/occurrence/get/199451405
+Remora	remora	-23.000000	-1.000000	unknown country	1960	ZMO	GBIF	http://data.gbif.org/ws/rest/occurrence/get/199451406
+Remora	remora	37.130000	-0.700000		1958	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35313791
+Remora	remora	2.000000	-0.100000	Ghana	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114037
+Remora	remora	10.000000	0.000000	unknown country	1930	ZMO	GBIF	http://data.gbif.org/ws/rest/occurrence/get/199451524
+Remora	remora	-15.000000	0.000000	unknown country		ZMO	GBIF	http://data.gbif.org/ws/rest/occurrence/get/199451039
+Remora	remora	-27.000000	1.000000	unknown country	1874	ZMO	GBIF	http://data.gbif.org/ws/rest/occurrence/get/199451034
+Remora	remora	0.000000	5.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298738
+Remora	remora	38.000000	7.300000	Sao Tome and Pri	1968	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114055
+Remora	remora	-1.983333	8.683333	Gabon		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025223
+Remora	remora	-12.000000	15.000000			GNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/80285548
+Remora	remora	-34.172000	17.283000		1960	SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24960052
+Remora	remora	-34.172000	17.283000		1960	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-33.933000	18.300000	Afrique du Sud		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299167
+Remora	remora	-33.933000	18.300000	Afrique du Sud		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299170
+Remora	remora	-33.933000	18.300000	Afrique du Sud		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299190
+Remora	remora	-33.933334	18.300000	South Africa		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026124
+Remora	remora	-33.933334	18.300000	South Africa		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026126
+Remora	remora	-33.933334	18.300000	South Africa		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026139
+Remora	remora	-34.116700	18.316700		1988	SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24960518
+Remora	remora	-34.116700	18.316700		1988	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.033300	18.350000			SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24960013
+Remora	remora	-34.033300	18.350000		1937	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.350000	18.483300		1960	SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24960059
+Remora	remora	-34.350000	18.483300		1960	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	35.000000	20.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299145
+Remora	remora	35.000000	20.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299146
+Remora	remora	35.000000	20.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299147
+Remora	remora	-34.466700	21.050000			SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24960767
+Remora	remora	-34.466700	21.050000		1956	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	11.000000	24.000000		1912	AMNH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=967871
+Remora	remora	-34.016666	25.700000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025666
+Remora	remora	-34.033300	25.700000	South Africa	1964	SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24911261
+Remora	remora	-34.033300	25.700000	South Africa	1964	SAIAB	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.033333	25.700000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025699
+Remora	remora	-34.033333	25.700000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025701
+Remora	remora	-34.016666	25.700001	South africa	1979	SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824689
+Remora	remora	-34.033333	25.700001	South africa	1964	SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193825263
+Remora	remora	-34.033333	25.700001	South africa	1968	SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824731
+Remora	remora	-33.033333	27.900000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025698
+Remora	remora	-33.033333	27.900000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025919
+Remora	remora	-33.033333	27.900000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025925
+Remora	remora	-33.033333	27.900000	South africa		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824666
+Remora	remora	-33.033333	27.900000	South africa		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824728
+Remora	remora	-33.033333	27.900000	South africa	1978	SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824675
+Remora	remora	-30.600000	30.566700			SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24959829
+Remora	remora	-30.600000	30.566700		1900	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-29.000000	31.000000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025817
+Remora	remora	-29.850000	31.000000	South Africa		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025888
+Remora	remora	-29.850000	31.000000	South africa		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193825015
+Remora	remora	-29.850000	31.000000	South africa		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193825223
+Remora	remora	-29.850000	31.000000	South Africa		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24911475
+Remora	remora	-29.850000	31.000000	South Africa		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24911772
+Remora	remora	-29.850000	31.000000	South Africa	1980	SAIAB	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-29.850000	31.000000	South Africa	1992	SAIAB	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-29.871000	31.058000			SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24960294
+Remora	remora	-29.871000	31.058000		0	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.200000	36.266700		1956	SAMC	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24960768
+Remora	remora	-32.200000	36.266700		1956	SAMC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-4.200000	41.000000	Kenya	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114208
+Remora	remora	-20.000000	42.500000	Madagascar		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026129
+Remora	remora	-20.000000	42.500000	Madagascar		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299173
+Remora	remora	-7.000000	42.600000	Madagascar	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114212
+Remora	remora	-9.800000	43.800000	Madagascar	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114210
+Remora	remora	-11.400000	44.400000	Comoros	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114211
+Remora	remora	-14.400000	46.100000	Madagascar	1964	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114209
+Remora	remora	-27.718000	46.433000	Madagascar	1976	MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299079
+Remora	remora	-9.833000	47.000000	seychelles		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298221
+Remora	remora	-9.833333	47.000000	Seychelles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026007
+Remora	remora	-13.500000	48.000000	Madagascar		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026021
+Remora	remora	-13.500000	48.000000	Madagascar		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026023
+Remora	remora	-13.500000	48.000000	Madagascar		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298717
+Remora	remora	-13.500000	48.000000	Madagascar		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298730
+Remora	remora	-5.100000	52.716667		1939	ISH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=724280
+Remora	remora	-5.100000	52.716667			ISH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025435
+Remora	remora	-3.483333	54.616665			ISH	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025437
+Remora	remora	-3.483333	54.616667		1939	ISH	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=724285
+Remora	remora	-20.000000	55.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298813
+Remora	remora	-20.000000	55.000000	Reunion		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025983
+Remora	remora	-20.615278	55.230556			NCL	GBIF	http://data.gbif.org/ws/rest/occurrence/get/57231953
+Remora	remora	-4.616667	55.450000	Seychelles		RUSI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025700
+Remora	remora	-4.616670	55.450000	Seychelles		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24911259
+Remora	remora	-4.616670	55.450000	Seychelles		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24911260
+Remora	remora	-4.616670	55.450000	Seychelles	0	SAIAB	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-4.616667	55.450001	Seychelles		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824732
+Remora	remora	-21.117000	55.583000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298812
+Remora	remora	-21.117000	55.583000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299141
+Remora	remora	-21.117000	55.583000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299189
+Remora	remora	-21.116667	55.583332	Reunion		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025982
+Remora	remora	-21.116667	55.583332	Reunion		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026110
+Remora	remora	-21.116667	55.583332	Reunion		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026138
+Remora	remora	-4.916666	56.000000	Seychelles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026118
+Remora	remora	-4.916666	56.000000	Seychelles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026119
+Remora	remora	-4.916666	56.000000	Seychelles		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026150
+Remora	remora	-4.917000	56.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299160
+Remora	remora	-4.917000	56.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299161
+Remora	remora	-4.917000	56.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299216
+Remora	remora	-20.333000	57.583000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299140
+Remora	remora	-20.300000	57.583300	Mauritius		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24910925
+Remora	remora	-20.300000	57.583300	Mauritius		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/24911027
+Remora	remora	-20.300000	57.583300	Mauritius	1971	SAIAB	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-20.300000	57.583300	Mauritius	1977	SAIAB	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-20.299999	57.583332	Mauritius		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824631
+Remora	remora	-20.299999	57.583332	Mauritius		SAIAB	GBIF	http://data.gbif.org/ws/rest/occurrence/get/193824670
+Remora	remora	-20.333334	57.583332	Mauritius		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026109
+Remora	remora	-7.500000	59.900000	Seychelles	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114084
+Remora	remora	-7.500000	59.900000	Seychelles	1963	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114086
+Remora	remora	16.700000	64.000000			USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114196
+Remora	remora	6.020000	64.980000		1964	MCZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/35314234
+Remora	remora	17.000000	67.000000	Puerto Rico	1983	GCRL	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=678321
+Remora	remora	24.866667	67.050000	Pakistan	1978	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874786
+Remora	remora	24.866667	67.050000	Pakistan	1978	LACM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/82874789
+Remora	remora	0.000000	75.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299144
+Remora	remora	0.000000	75.000000			MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299149
+Remora	remora	7.100000	78.166664		1957	CU	GBIF	http://data.gbif.org/ws/rest/occurrence/get/46621887
+Remora	remora	12.500000	80.000000	Inde		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299142
+Remora	remora	12.500000	80.000000	India		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026111
+Remora	remora	29.000000	87.000000		1954	GCRL	FB	http://www.fishbase.org/Museum/SpecOccurrences.php?catnum2=678319
+Remora	remora	10.000000	93.000000		0	NCL	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-6.000000	106.750000	Indonesia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026114
+Remora	remora	-6.000000	106.750000	Indonesia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026115
+Remora	remora	-6.000000	106.750000	Indonésie		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299151
+Remora	remora	-6.000000	106.750000	Indonésie		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299152
+Remora	remora	-6.967000	110.483000	Indonésie		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299124
+Remora	remora	-6.966667	110.483330	Indonesia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025990
+Remora	remora	12.500000	112.500000	Viet Nam		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026121
+Remora	remora	12.500000	112.500000	Viet Nam		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299164
+Remora	remora	-32.000000	115.700000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660929
+Remora	remora	-31.950000	115.730000		1914	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-18.500000	116.600000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660935
+Remora	remora	-18.625000	116.750000		1982	CSIRO Marine and Atmospheric Research, Australia	GBIF	http://data.gbif.org/ws/rest/occurrence/get/22078044
+Remora	remora	-18.625000	116.750000		1982	CSIRO Marine and Atmospheric Research, Australia	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-18.000000	117.000000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660930
+Remora	remora	-20.633330	117.200000	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-20.633333	117.200000			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327972
+Remora	remora	22.470000	120.430000	Taiwan	2004	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777332
+Remora	remora	22.470000	120.430000	Taiwan	2004	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777335
+Remora	remora	22.470000	120.430000	Taiwan	2004	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777337
+Remora	remora	22.440000	120.470000	Taiwan	2004	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777333
+Remora	remora	22.440000	120.470000	Taiwan	2004	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777334
+Remora	remora	22.440000	120.470000	Taiwan	2004	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777336
+Remora	remora	22.030000	120.720000	Taiwan		ASIZP0054919	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025145
+Remora	remora	22.030000	120.720000	Taiwan	1977	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777330
+Remora	remora	2.000000	121.000000	INDONESIA	0	UWFC	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	23.070000	121.240000		2005	FRI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218790295
+Remora	remora	23.090000	121.380000		1993	FRI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218790294
+Remora	remora	25.160000	121.760000		1952	FRI	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218790293
+Remora	remora	24.590000	121.860000			ASIZP0060392	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025160
+Remora	remora	24.580000	121.860000	Taiwan	1996	ASIZ	GBIF	http://data.gbif.org/ws/rest/occurrence/get/218777331
+Remora	remora	9.312000	123.310000	Philippines		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025202
+Remora	remora	-12.525660	123.584830		2004	AIMS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/115870912
+Remora	remora	-17.300000	123.600000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660927
+Remora	remora	-16.680000	123.630000		1886	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-3.333333	126.666664	Indonesia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026112
+Remora	remora	-3.333000	126.667000	Indonésie		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299143
+Remora	remora	29.980000	126.963000	Japan		NSMT	GBIF	http://data.gbif.org/ws/rest/occurrence/get/43989192
+Remora	remora	29.980000	126.965000	Japan		NSMT	GBIF	http://data.gbif.org/ws/rest/occurrence/get/43989190
+Remora	remora	0.883333	127.683333	Indonesia	1981	USNM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/150114177
+Remora	remora	-5.000000	131.000000	Indonesia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026135
+Remora	remora	-5.000000	131.000000	Indonésie		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299182
+Remora	remora	-34.966667	132.416667			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327953
+Remora	remora	-34.966670	132.416670	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.516667	135.350000			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327954
+Remora	remora	-34.516670	135.350000	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-35.183333	136.866667			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224328003
+Remora	remora	-35.183330	136.866670	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.500000	136.916667			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327941
+Remora	remora	-34.500000	136.916670	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-35.816667	137.733333			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327969
+Remora	remora	-35.816670	137.733340	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-35.166667	137.916667			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327926
+Remora	remora	-35.166667	137.916667			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327946
+Remora	remora	-35.166670	137.916670	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-35.266667	138.466667			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327924
+Remora	remora	-35.266670	138.466670	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.916667	138.500000			SAMA	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224327992
+Remora	remora	-34.916670	138.500000	Australia	0	SAMA	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-37.850000	144.966700	Australia	1921	mv	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-37.800000	145.000000	Australia		NMV	GBIF	http://data.gbif.org/ws/rest/occurrence/get/224144083
+Remora	remora	-17.580000	146.870000		1954	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-18.400000	146.900000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660955
+Remora	remora	-32.000000	151.000000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660940
+Remora	remora	-34.000000	151.000000		1918	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.000000	151.000000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660928
+Remora	remora	-34.100000	151.100000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660963
+Remora	remora	-33.930000	151.130000		1905	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-33.950000	151.150000		1913	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.170000	151.170000		1881	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.170000	151.170000		1882	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.170000	151.170000		1885	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.000000	151.170000		1882	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-33.800000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660925
+Remora	remora	-33.800000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660936
+Remora	remora	-33.800000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660944
+Remora	remora	-33.800000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660957
+Remora	remora	-34.000000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660934
+Remora	remora	-34.000000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660954
+Remora	remora	-34.000000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660961
+Remora	remora	-34.000000	151.200000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660962
+Remora	remora	-32.130000	151.270000		1931	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.150000	151.270000		1888	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.150000	151.270000		1906	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.150000	151.270000		1963	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.170000	151.270000		1940	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.170000	151.280000		1881	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.170000	151.280000		1940	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.200000	151.280000		1901	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.370000	151.300000		1908	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-33.600000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660931
+Remora	remora	-33.800000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660933
+Remora	remora	-33.800000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660938
+Remora	remora	-33.800000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660939
+Remora	remora	-33.800000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660943
+Remora	remora	-33.800000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660959
+Remora	remora	-33.800000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660964
+Remora	remora	-33.800000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660965
+Remora	remora	-33.900000	151.300000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660952
+Remora	remora	-33.583000	151.333000	Australie		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93298689
+Remora	remora	-33.583332	151.333330	Australia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025979
+Remora	remora	-32.170000	151.380000		1949	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-33.800000	151.400000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660958
+Remora	remora	-32.170000	151.500000		1961	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-33.800000	151.500000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660932
+Remora	remora	-33.980000	151.680000		1993	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-34.000000	151.700000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660951
+Remora	remora	-31.300000	152.000000		1999	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.000000	152.000000		1994	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.700000	152.000000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660956
+Remora	remora	-31.300000	152.050000		1931	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.700000	152.100000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660937
+Remora	remora	-32.700000	152.500000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660946
+Remora	remora	-32.700000	152.500000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660947
+Remora	remora	-32.700000	152.500000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660948
+Remora	remora	-32.700000	152.500000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660949
+Remora	remora	-31.300000	152.520000		1999	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-31.280000	152.800000		1998	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-32.700000	152.800000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660945
+Remora	remora	-28.700000	153.600000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660953
+Remora	remora	-27.350000	153.620000		1910	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	1.045000	154.734160	Micronesia		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025230
+Remora	remora	1.103056	154.752780	Micronesia		CAS	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198025231
+Remora	remora	-6.000000	155.000000	Solomon Islands		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660926
+Remora	remora	-6.000000	155.000000	Solomon Islands		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660942
+Remora	remora	-30.470000	159.070000		1973	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-30.480000	159.080000		1923	AM	OBIS	http://www.iobis.org/OBISWEB/ObisControllerServlet?site=fishbase&searchCategory=%2FAdvancedSearchServlet&genus=Remora&species=remora
+Remora	remora	-31.500000	159.100000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660950
+Remora	remora	-31.500000	159.100000	Australia		AM	GBIF	http://data.gbif.org/ws/rest/occurrence/get/223660960
+Remora	remora	-21.833334	165.166670	New Caledonia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026127
+Remora	remora	-21.833334	165.166670	New Caledonia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026132
+Remora	remora	-21.833334	165.166670	New Caledonia		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026133
+Remora	remora	-21.833000	165.167000	France		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299171
+Remora	remora	-21.833000	165.167000	France		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299178
+Remora	remora	-21.833000	165.167000	France		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299179
+Remora	remora	-40.000000	175.000000	New Zealand		mnhn	GBIF	http://data.gbif.org/ws/rest/occurrence/get/198026137
+Remora	remora	-40.000000	175.000000	Nouvelle-Zélande		MNHN	GBIF	http://data.gbif.org/ws/rest/occurrence/get/93299188
