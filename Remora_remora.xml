@@ -1,0 +1,29 @@
+<berkeleymapper><metadata>
+			 <name>Remora remora Configuration File</name>
+			 <relatedinformation>https://www.fishbase.ca/search.php</relatedinformation>
+			 <abstract>GIS configuration file for Remora remora</abstract>
+			 <mapkeyword keyword='specimens'/>
+			 <header location='/usr/local/web/aw/include/bm_header.html'/>
+			 <footer location='/usr/local/web/aw/include/bm_footer.html'/>
+			 <linkbackheader location='https://www.fishbase.ca/search.php'/>
+			 </metadata><logo img='../../images/gifs/FBLogo.gif' url='https://www.fishbase.ca/search.php'/><colors method='field' fieldname='darwin:genuscol' label='Genus'>
+		   <color key='default' red='0' green='0' blue='255' symbol='7' label='Remora remora points'/>
+		   <dominantcolor webcolor='629ad3'/>
+		   <subdominantcolor webcolor='ddddff'/>
+		   </colors><settings>
+			 <setting name='landsat' show='0'/>
+			 <setting name='maxerrorinmeters' show='1'/>
+			 <setting name='coloruncertainty' show='1'/>
+			 </settings><recordlinkback>
+		  <linkback method='pattern' linkurl='${char255:1}' text='View Details' fieldname='Link Back'/>
+		  </recordlinkback><concepts xmlns:darwin='http://digir.net/schema/conceptual/darwin/2003/1.0'>
+			<concept order='1' viewlist='1' datatype='darwin:genuscol' alias='Genus'/>
+			<concept order='2' viewlist='1' datatype='darwin:speciescol' alias='Species'/>
+			<concept order='3' viewlist='1' datatype='darwin:latitude' alias='Latitude'/>
+			<concept order='4' viewlist='1' datatype='darwin:longitude' alias='Longitude'/>
+			<concept order='5' viewlist='1' datatype='darwin:paese' alias='Country'/>
+			<concept order='6' viewlist='1' datatype='darwin:year' alias='Year Collected'/>
+			<concept order='7' viewlist='1' datatype='darwin:organization' alias='Organization'/>
+			<concept order='8' viewlist='1' datatype='darwin:portal' alias=':Portal'/>
+			<concept order='9' viewlist='0' datatype='char255:1' alias='recordurl'/>
+			</concepts></berkeleymapper>
