@@ -1,30 +1,28 @@
-<berkeleymapper>
-<metadata>
-<name>Remora remora Configuration File</name>
-<relatedinformation>https://www.fishbase.ca/search.php</relatedinformation>
-<abstract>GIS configuration file for Remora remora</abstract>
-<mapkeyword keyword='specimens'/>
-<header location='/usr/local/web/aw/include/bm_header.html'/>
-<footer location='/usr/local/web/aw/include/bm_footer.html'/>
-<linkbackheader location='https://www.fishbase.ca/search.php'/>
-</metadata>
-<logo img='https://raw.githubusercontent.com/QQ-Vagbay/trial/main/FBLogo.gif' url='https://www.fishbase.ca/search.php'/><colors method='field' fieldname='darwin:genuscol' label='Genus'>
-<color key='default' red='0' green='0' blue='255' symbol='7' label='Remora remora points'/>
-<dominantcolor webcolor='629ad3'/>
-<subdominantcolor webcolor='ddddff'/>
-</colors><settings>
-<setting name='landsat' show='0'/>
-<setting name='maxerrorinmeters' show='1'/>
-<setting name='coloruncertainty' show='1'/>
-</settings><recordlinkback>
-<linkback method='pattern' linkurl='${char255:1}' text='View Details' fieldname='Link Back'/>
-</recordlinkback><concepts xmlns:darwin='http://digir.net/schema/conceptual/darwin/2003/1.0'>
-<concept order="1" viewlist="1" datatype="darwin:scientificname" alias="Scientific Name"/>
-<concept order="6" viewlist="1" datatype="darwin:decimallatitude" alias="Decimal Latitude"/>
-<concept order="7" viewlist="1" datatype="darwin:decimallongitude" alias="Decimal Longitude"/>
-<concept order="2" viewlist="1" datatype="darwin:institutioncode" alias="Institution Code"/>
-<concept order="4" viewlist="1" datatype="darwin:collectioncode" alias="Collection Code"/>
-<concept order="5" viewlist="1" datatype="darwin:catalognumber" alias="Catalog Number"/>
-<concept order="8" viewlist="0" datatype="char255:1" alias="dc_rereference"/>
-</concepts>
-</berkeleymapper>
+<berkeleymapper><metadata>
+			 <name>Remora remora Configuration File</name>
+			 <relatedinformation>https://www.fishbase.ca/search.php</relatedinformation>
+			 <abstract>GIS configuration file for Remora remora</abstract>
+			 <mapkeyword keyword='specimens'/>
+			 <header location='/usr/local/web/aw/include/bm_header.html'/>
+			 <footer location='/usr/local/web/aw/include/bm_footer.html'/>
+			 <linkbackheader location='https://www.fishbase.ca/search.php'/>
+			 </metadata><logo img='../../images/gifs/FBLogo.gif' url='https://www.fishbase.ca/search.php'/><colors method='field' fieldname='darwin:genuscol' label='Genus'>
+		   <color key='default' red='0' green='0' blue='255' symbol='7' label='Remora remora points'/>
+		   <dominantcolor webcolor='629ad3'/>
+		   <subdominantcolor webcolor='ddddff'/>
+		   </colors><settings>
+			 <setting name='landsat' show='0'/>
+			 <setting name='maxerrorinmeters' show='1'/>
+			 <setting name='coloruncertainty' show='1'/>
+			 </settings><recordlinkback>
+		  <linkback method='pattern' linkurl='${char255:1}' text='View Details' fieldname='Link Back'/>
+		  </recordlinkback><concepts xmlns:darwin='http://digir.net/schema/conceptual/darwin/2003/1.0'>
+			<concept order='1' viewlist='1' datatype='darwin:scientificname' alias='Scientific Name'/>
+			<concept order='6' viewlist='1' datatype='darwin:decimallatitude' alias='Decimal Latitude'/>
+			<concept order='7' viewlist='1' datatype='darwin:decimallongitude' alias='Decimal Longitude'/>
+			<concept order='2' viewlist='1' datatype='darwin:institutioncode' alias='Institution Code'/>
+			<concept order='4' viewlist='1' datatype='darwin:collectioncode' alias='Collection Code'/>
+			<concept order='5' viewlist='1' datatype='darwin:catalognumber' alias='Catalog Number'/>
+			<concept order='5' viewlist='1' datatype='darwin:portal' alias='Portal'/>
+			<concept order='8' viewlist='0' datatype='char255:1' alias='dc_rereference'/>
+			</concepts></berkeleymapper>
